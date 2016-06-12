@@ -1,3 +1,5 @@
+<img src="https://github.com/ogallagher/Round-Source/blob/master/Round_Icon/icon.png" width="128">
+
 # Round-WIN32
 This project is a multiplayer, top-down, comptetitive, cooperative, shooting game called Round.
 
@@ -8,7 +10,7 @@ Round is in development for its 8th version. For more details on recent updates 
 given under the __Source__ header near the end of this document.
 
 ### Notes
-Within this directory is the downloadable client application for the game for computers running the mac operating system, 
+Within this directory is the downloadable client application for the game for computers running a windows operating system, 
 but it will not run unless its server is also running at the ip address and port to which it will attempt to connect.
 
 Currently, the server is not running regularly, so the game is not playable yet.
@@ -85,13 +87,11 @@ __Team Code:__ Just append underscore + TEAMCODE to the end of your username whe
 __Team Aspects:__ Players of the same team only to 50% damage to each other. Bases heal players of its team and turrets aim at everyone except players of its team.
 
 ### Chat
-After you have signed and are playing, move the mouse to the lower-right corner and press the button to chat, or just use 
-the ENTER/RETURN key to toggle the chat menu. Type a message and press ENTER to send it. 
+After you have signed and are playing, move the mouse to the lower-right corner and press the button to chat, or just use the ENTER/RETURN key to toggle the chat menu. Type a message and press ENTER to send it. 
 
 By default, the message is sent to everyone. If you are on a team, it is sent to those on your team. 
 
-To send a message to an individual player, append "-ReceiverName" to the end of your message (e.g. _Hi, Player One. It's Player 
-Two speaking.-Player One_).
+To send a message to an individual player, append "-ReceiverName" to the end of your message (e.g. _Hi, Player One. It's Player Two speaking.-Player One_).
 
 ### Stats
 Your player is shown with your name (without numbers) above and your score below.
@@ -128,7 +128,7 @@ at this repository: [ogallagher/Round-Source](https://github.com/ogallagher/Roun
 ----
 
 # Other OS
-If you have a computer running a windows operating system, check out the following repositories:
+If you have a computer running a differenct operating system, check out the following repositories:
 - For Mac OS: [ogallagher/Round-MACOSX](https://github.com/ogallagher/Round-MACOSX)
 - For Windows-64 OS: [ogallagher/Round-WIN64](https://github.com/ogallagher/Round-WIN64)
 
